@@ -1,4 +1,4 @@
-This a NLP (**Natural Language Processing**) learning project, of which task is to perform sentiment analysis on movie reviews. In this project we will be using an IMDB dataset containing 50,000 reviews classified as ***positive*** or ***negative***.
+This is a NLP (**Natural Language Processing**) learning project, of which task is to perform sentiment analysis on movie reviews. In this project we will be using an IMDB dataset containing 50,000 reviews classified as ***positive*** or ***negative***.
 
 The core dataset contains 50,000 reviews split evenly into 25k train and 25k test sets. The overall distribution of labels is balanced (25k ***positive*** and 25k ***negative***). Also included are an additional 50,000 unlabeled documents for unsupervised learning.
 
